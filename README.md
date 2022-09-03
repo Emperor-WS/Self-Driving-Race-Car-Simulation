@@ -6,16 +6,16 @@ including Deep Learning, Deep Reinforcement Learning, Policy Gradient, and even,
 
 ### Notes
 
-you need the following to be able to run the project:\
+you need the following to be able to run the project:
 
--TensorFlow\
+-TensorFlow
 
--NumPy\
+-NumPy
 
--OpenAI Gym 0.9.4\
+-OpenAI Gym 0.9.4
 
--cma\
+-cma
 
--Python 3\
+-Python 3
 
 -mpi4py
